@@ -10,7 +10,7 @@ Jira, qase.io, SQL, Postman, Fiddler, Swagger, Trello,
 SoapUI
 
 
-# [Проект](https://qa-bag-reporttt.atlassian.net/wiki/spaces/library/pages/884737/2- "Всплывающая подсказка")
+# [Проект]
 
 ***Протестировать кабинет учителя Skyeng***
 
@@ -22,7 +22,7 @@ SoapUI
 
 3️. Провести тестирование,
 
-4️. [Написать отчет о результатах тестирования](https://qa-bag-reporttt.atlassian.net/wiki/spaces/library/pages/1900547 "Всплывающая подсказка").
+4️. [Написать отчет о результатах тестирования]
 
 
 С какими задачами я работала за время проекта:
