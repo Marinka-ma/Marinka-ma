@@ -10,7 +10,7 @@ Jira, qase.io, SQL, Postman, Fiddler, Swagger, Trello,
 SoapUI
 
 
-# [Проект](https://www.notion.so/Skyeng-ceffecb6676c4cc69a70c0f73c33e028?pvs=4)
+# [Проект](https://rectangular-vessel-d37.notion.site/Skyeng-ceffecb6676c4cc69a70c0f73c33e028?pvs=4)
 
 ***Протестировать кабинет учителя Skyeng***
 
